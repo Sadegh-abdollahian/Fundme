@@ -8,23 +8,23 @@
   - [Refund](#refund)
   - [Custom refund](#custom-refund)
 
-# Getting started
+## Getting started
 
     npm install
     npm install --force (if you had any error)
 
-# New features
+## New features
 
->  ## Goal
+>  #### Goal
     **you can set a goal for contract and also update goal with a function**
 
->  ## Change ownership 
+>  #### Change ownership 
     **now you can change the ownership instead of deploying another contract !**
 
->  ## Refund 
+>  #### Refund 
     **users can __refund__ their funds**
 
->  ## Custom refund 
+>  #### Custom refund 
     **also they can refund with custom amount of dollar**
 
-# it is a fork of [Patrick AlphaC](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc) project
+##### it is a fork of [Patrick AlphaC](https://github.com/PatrickAlphaC/hardhat-fund-me-fcc) project
